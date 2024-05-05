@@ -1,0 +1,72 @@
+Differentiation
+2.1
+The Derivative and the Tangent Line Problem
+96
+2.2
+Basic Differentiation
+Rules and Rates of Change
+106
+2.3
+Product and Quotient Rules and Higher-Order
+Derivatives
+118
+2.4
+The Chain Rule
+129
+2.5
+Implicit Differentiation
+140
+Section Project:
+Optical Illusions
+147.
+2.6
+Related
+Rates
+148
+Review Exercises
+157
+PS: Problem Solving
+159
+Applications of Differentiation
+3.1
+Extrema on an Interval
+162
+3.2
+Rolle's Theorem ard the
+Mean Value Theorem
+170
+3.3
+Increasing and Decreasing Functions and
+thu
+First Derivative Tesi
+177
+Section Prolect: Rainbows
+186
+3.4
+Concavity and the Second Derivative Test
+187
+3.5
+Limits
+a[
+Infinity
+195
+3.6
+A Summary of Curve Sketching
+206
+3.7
+Optimization Problems
+215
+Section Project: connecticut River
+224
+3.4
+Namons Method
+225
+3,9
+Dinerentials
+231
+Review
+Exercises
+238
+PS_
+Problem Solving
+201
