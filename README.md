@@ -3,7 +3,7 @@
 * Dependencies: ___pip install opencv-python numpy easyocr matplotlib___
 
 # Border Detection
-Border detection is done by initially detecting the edges with Canny and then a rectangular contour is recognized to be displayed on top of the original image.
+Border detection is done by initially detecting the edges with opencv's Canny and then a rectangular contour is recognized to be displayed on top of the original image.
 # Perpective transform
 Perspective transform is also done with opencv by transforming the rectangular contour from the ___"Border Detection"___ stage into 4 corner points. The resulting image is saved in the folder named ___"Results_Folder"___ under the name ___"image_name"+"_Perspective"___ and displayed with matplotlib.
 # Text Recognition
