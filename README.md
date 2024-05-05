@@ -9,4 +9,4 @@ Perspective transform is also done with opencv by transforming the rectangular c
 # Text Recognition
 Text Recognition was carried out with MSER where the detected text was highlighted with red. The resulting image is saved in the folder named ___"Results_Folder"___ under the name ___"image_name"+"_MSER"___ and displayed with matplotlib.
 # Image to Text conversion With a Pre-trained Model
-A pre-trained CRNN model was loaded via the "easyocr" library which extracted the text to be printed and saved in the ___"Results_Folder"___ under the name ___"image_name"+"Text"___ in ___txt___ format.
+A pre-trained CRNN model was loaded via the "easyocr" library which extracted the text from the ___"highlighted_image"___ array from the ___"Text Recognition"___ stage to be printed and saved in the ___"Results_Folder"___ under the name ___"image_name"+"Text"___ in ___txt___ format.
